@@ -1,7 +1,7 @@
 # Bandit
 
-Statistical Decision Making LAB Intern.
+Intern at Statistical Decision Making LAB.
 
-https://sdm.unist.ac.kr/about/members/
+https://sdm.unist.ac.kr/
 
 2021.07.15 ~
